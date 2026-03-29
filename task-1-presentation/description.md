@@ -1,2 +1,3 @@
-#Description
+# Description
+
 The "Digital Literacy" infographic outlines three essential pillars for navigating the modern professional landscape: defining digital literacy, building a presence, and mastering communication. It emphasizes that true literacy involves moving from a passive "user" to a "digitally literate creator" who can critically evaluate and share information safely. The guide highlights that a professional online presence on platforms like **LinkedIn** and **GitHub** is now an expectation for employers and academics alike. Finally, it provides actionable **Email Etiquette Essentials**, such as using clear subject lines and professional greetings. The overarching "Golden Rule" reminds readers that concise, well-structured emails are far more effective than long, poorly organized ones.
