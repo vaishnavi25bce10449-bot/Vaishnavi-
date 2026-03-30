@@ -4,7 +4,7 @@
 # Registation No. : 25BCE10449
 
 
-#Project Overview :-
+# Project Overview :-
 The Digital Literacy Awareness Project is an essential educational initiative designed to transform first-year students into responsible digital citizens. As a Student Digital Ambassador, your mission is to lead by example, helping your peers navigate the online world with professional confidence and safety. By building this portfolio, you demonstrate your ability to create professional identities, use collaborative platforms efficiently, and maintain high standards of digital ethics. This project is not just a requirement; it is a foundation for your professional and personal growth in a digital-first world.
 
 Through five structured tasks, you will develop a diverse set of digital skills—ranging from graphic design and professional networking to coding and cybersecurity awareness. Each part of this repository represents a milestone in mastering the tools needed for modern academic and career success. By documenting your progress, you create a permanent digital asset that proves your technical awareness and your commitment to responsible online behavior.
